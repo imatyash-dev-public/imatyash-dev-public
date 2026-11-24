@@ -1,4 +1,4 @@
-# Илья Матяш — Lead Systems Analyst | Data Engineer | AI Systems Architect
+# Иван Матяш — Lead Systems Analyst | Data Engineer | AI Systems Architect
 
 **18+ лет в ИТ:** проектирование архитектуры корпоративных и государственных систем (B2G/Enterprise), инженерия больших данных (Medallion Lakehouse, PySpark, DWH/BI) и разработка детерминированных мультиагентных LLM-конвейеров.
 
